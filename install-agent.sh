@@ -1,7 +1,7 @@
 #!/bin/bash
 
 USERNAME=$(whoami)
-WORKDIR="/home/${USERNAME}/.nezha-agent"
+WORKDIR="/home/${USERNAME}/nezhapanel"
 
 download_agent() {
     DOWNLOAD_LINK="https://github.com/nezhahq/agent/releases/latest/download/nezha-agent_freebsd_amd64.zip"
