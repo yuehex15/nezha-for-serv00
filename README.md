@@ -3,7 +3,7 @@
 
 Dashboard installation:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/k0baya/nezha4serv00/main/install-dashboard.sh)
+bash <(curl -s https://raw.githubusercontent.com/yuehex15/nezha-for-serv00/main/install-dashboard.sh)
 ```
 
 Agent installation:
